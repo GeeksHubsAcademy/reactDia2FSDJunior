@@ -1,0 +1,21 @@
+
+.designButton {
+    height: 3.5em;
+    width: 8em;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    cursor: pointer;
+
+    background-color: red;
+
+    transition: 0.3s;
+}
+
+.designButton:hover {
+    background-color: crimson;
+
+    transition: 0.3s;
+}
